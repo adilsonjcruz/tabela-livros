@@ -1,4 +1,5 @@
 import React from "react";
+import Classificacao from "./Classificacao";
 
 const TabelaHead = (props) => (
     <thead>
@@ -6,19 +7,34 @@ const TabelaHead = (props) => (
             <th colSpan="5">Tabela de Livros</th>
         </tr>
         <tr>
-            <th>ISBN</th>
-            <th>Título
-                <div class="container-setinhas">
-                    <div onClick={ 
-                        () => props.ordernarCrescente()
-                    }>&#129093;</div>
-                    <div onClick={
-                        () => props.ordernarDecrescente()
-                    }>&#129095;</div>
-                </div>
+            <th>ISBN
+                <Classificacao
+                    Crescente   = {props.ordernarCrescente}
+                    Decrescente = {props.ordernarDecrescente} 
+                    coluna = "ISBN"
+                />
             </th>
-            <th>Autor</th>
-            <th>Ano Lançamento</th>            
+            <th>Título
+                <Classificacao
+                    Crescente   = {props.ordernarCrescente}
+                    Decrescente = {props.ordernarDecrescente} 
+                    coluna = "titulo"
+                />
+            </th>
+            <th>Autor
+                <Classificacao
+                    Crescente   = {props.ordernarCrescente}
+                    Decrescente = {props.ordernarDecrescente} 
+                    coluna = "autor"
+                />
+            </th>
+            <th>Ano Lançamento
+                <Classificacao
+                    Crescente   = {props.ordernarCrescente}
+                    Decrescente = {props.ordernarDecrescente} 
+                    coluna = "autor"
+                />                
+            </th>            
             <th></th>
         </tr>
     </thead>

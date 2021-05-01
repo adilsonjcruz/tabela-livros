@@ -28,19 +28,57 @@ class App extends Component {
       
   }
 
-  handleOrdenarCrescente = (titulo) => {
-    const livros = this.state.livros.sort((a, b) => 
+  handleOrdenarCrescente = (coluna) => {
+    
+    let livros = []
+    
+    if(coluna ==="ISBN"){
+      livros = this.state.livros.sort((a, b) => 
+      a.id < b.id ? -1 : 0
+    );}
+    else if(coluna ==="titulo"){
+      livros = this.state.livros.sort((a, b) => 
       a.titulo < b.titulo ? -1 : 0
-    );
+    );}
+    else if(coluna ==="autor"){
+      livros = this.state.livros.sort((a, b) => 
+      a.autor < b.autor ? -1 : 0
+    );}  
+    else if(coluna ==="anolancamento"){
+      livros = this.state.livros.sort((a, b) => 
+      a.anolancamento < b.anolancamento ? -1 : 0
+    );}   
+    else {
+      livros = this.state.livros; 
+    }    
 
     this.setState({ livros })
 
   }
 
-  handleOrdenarDecrescente = (titulo) => {
-    const livros = this.state.livros.sort((a, b) => 
+  handleOrdenarDecrescente = (coluna) => {
+    
+    let livros = []
+    
+    if(coluna ==="ISBN"){
+      livros = this.state.livros.sort((a, b) => 
+      a.id < b.id ? -1 : 0
+    );}
+    else if(coluna ==="titulo"){
+      livros = this.state.livros.sort((a, b) => 
       a.titulo < b.titulo ? -1 : 0
-    );
+    );}
+    else if(coluna ==="autor"){
+      livros = this.state.livros.sort((a, b) => 
+      a.autor < b.autor ? -1 : 0
+    );}  
+    else if(coluna ==="anolancamento"){
+      livros = this.state.livros.sort((a, b) => 
+      a.anolancamento < b.anolancamento ? -1 : 0
+    );}   
+    else {
+      livros = this.state.livros; 
+    } 
 
     livros.reverse();
     this.setState({ livros })
