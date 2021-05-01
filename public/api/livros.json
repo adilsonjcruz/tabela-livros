@@ -1,0 +1,176 @@
+[
+  {
+    "id": "978-85-7522-726-8",
+    "titulo": "Dominando o Android com Kotlin",
+    "autor": "Nelson Glauber",
+    "anolancamento": "2020"
+  },
+  {
+    "id": "978-85-7522-714-5",
+    "titulo": "Introdução à linguagem Python",
+    "autor": "José Augusto N. G. Manzano",
+    "anolancamento": "2019"
+  },
+  {
+    "id": "978-85-7522-691-9",
+    "titulo": "PHP Programando com Orientação a Objetos",
+    "autor": "Pablo Dall’Oglio",
+    "anolancamento": "2008"
+  },
+  {
+    "id": "978-85-7522-550-9",
+    "titulo": "Laravel para ninjas",
+    "autor": "Ademir C. Gabardo",
+    "anolancamento": "2021"
+  },
+  {
+    "id": "978-85-7522-814-2",
+    "titulo": "Padrões para Kubernetes",
+    "autor": "Bilgin Ibryam / Roland Huß",
+    "anolancamento": "2006"
+  },
+  {
+    "id": "978-85-7522-809-8",
+    "titulo": "Construindo Chatbots com Python",
+    "autor": "Sumit Raj",
+    "anolancamento": "2010"
+  },
+  {
+    "id": "978-85-7522-805-0",
+    "titulo": "Problemas Clássicos de Ciência da Computação com Python",
+    "autor": "David Kopec",
+    "anolancamento": "2011"
+  },
+  {
+    "id": "978-85-7522-780-0",
+    "titulo": "Internet das Coisas para Desenvolvedores",
+    "autor": "Ricardo da Silva Ogliari",
+    "anolancamento": "2018"
+  },
+  {
+    "id": "978-85-7522-677-3",
+    "titulo": "Node Essencial",
+    "autor": "Ricardo R. Lecheta",
+    "anolancamento": "2015"
+  },
+  {
+    "id": "978-85-7522-807-4",
+    "titulo": "Introdução ao Pentest",
+    "autor": "Daniel Moreno",
+    "anolancamento": "2021"
+  },
+  {
+    "id": "978-85-7522-632-2",
+    "titulo": "CSS Grid Layout",
+    "autor": "Maurício Samy Silva",
+    "anolancamento": "2016"
+  },
+  {
+    "id": "978-85-7522-403-8",
+    "titulo": "HTML5 - 2ª Edição",
+    "autor": "Maurício Samy Silva",
+    "anolancamento": "2001"
+  },
+  {
+    "id": "978-85-7522-392-5",
+    "titulo": "Web Design Responsivo",
+    "autor": "Maurício Samy Silva",
+    "anolancamento": "2010"
+  },
+  {
+    "id": "978-85-7522-289-8",
+    "titulo": "CSS3",
+    "autor": "Maurício Samy Silva",
+    "anolancamento": "2009"
+  },
+  {
+    "id": "978-85-7522-166-2",
+    "titulo": "Criando Sites com HTML",
+    "autor": "Maurício Samy Silva",
+    "anolancamento": "2012"
+  },
+  {
+    "id": "978-85-7522-139-6",
+    "titulo": "Construindo Sites com CSS e (X)HTML",
+    "autor": "Maurício Samy Silva",
+    "anolancamento": "2013"
+  },
+  {
+    "id": "978-85-7522-730-5",
+    "titulo": "Web Scraping com Python - 2ª edição",
+    "autor": "Ryan Mitchell",
+    "anolancamento": "2018"
+  },
+  {
+    "id": "978-85-7522-683-4",
+    "titulo": "Primeiros Passos com a Linguagem Rust",
+    "autor": "José Augusto N. G. Manzano",
+    "anolancamento": "2017"
+  },
+  {
+    "id": "978-85-7522-444-1",
+    "titulo": "Java Guia do Programador - 3ª Edição",
+    "autor": "Peter Jandl Junior",
+    "anolancamento": "2013"
+  },
+  {
+    "id": "978-85-7522-812-8",
+    "titulo": "Redação Estratégica para UX",
+    "autor": "Torrey Podmajersky",
+    "anolancamento": "2012"
+  },
+  {
+    "id": "978-85-7522-776-3",
+    "titulo": "UX Design",
+    "autor": "Will Grant",
+    "anolancamento": "2021"
+  },
+  {
+    "id": "978-85-7522-366-6",
+    "titulo": "Design centrado no usuário",
+    "autor": "Travis Lowdermilk",
+    "anolancamento": "2020"
+  },
+  {
+    "id": "978-85-7522-512-7",
+    "titulo": "Aprendendo Material Design",
+    "autor": "Kyle Mew",
+    "anolancamento": "2009"
+  },
+  {
+    "id": "978-85-7522-453-3",
+    "titulo": "Design Thinking & Thinking Design",
+    "autor": "Adriana Melo / Ricardo Abelheira",
+    "anolancamento": "2011"
+  },
+  {
+    "id": "978-85-7522-438-0",
+    "titulo": "Fundamentos de HTML5 e CSS3",
+    "autor": "Maurício Samy Silva",
+    "anolancamento": "2009"
+  },
+  {
+    "id": "978-85-7522-410-6",
+    "titulo": "Crie seu próprio site",
+    "autor": "Nate Cooper",
+    "anolancamento": "2005"
+  },
+  {
+    "id": "978-85-7522-340-6",
+    "titulo": "Análise e Design Orientados a Objetos",
+    "autor": "Hélio Engholm Jr.",
+    "anolancamento": "2004"
+  },
+  {
+    "id": "978-85-7522-319-2",
+    "titulo": "Padrões de Design para Aplicativos Móveis",
+    "autor": "Theresa Neil",
+    "anolancamento": "2008"
+  },
+  {
+    "id": "978-85-7522-358-1",
+    "titulo": "Padrões de Projeto para o Android",
+    "autor": "Greg Nudelman",
+    "anolancamento": "2014"
+  }
+]
